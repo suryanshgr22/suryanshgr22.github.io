@@ -1,0 +1,125 @@
+.container-fluid{
+    background-color: black;
+    position: fixed;
+    padding-top: 15px;
+
+    
+    
+}
+.navlink{
+    margin-right: 13px;
+}
+a:link {
+    color: rgb(169, 176, 169);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.navlink:hover{
+    background-color: grey;
+}
+
+
+.image1{
+    width:100vw;
+    height: 500px;
+}
+.p-2{
+    color: darkgrey;
+}
+
+.width1{
+    display: flex;
+    justify-content: center;
+   
+    width:800px
+}
+
+#img2{
+    height: 200px;
+    width: 200px;
+    image-rendering: optimizeQuality;
+    margin: 30px;
+
+}
+
+
+
+#p2{
+    width:700px;
+    
+}
+
+#black{
+    width: 100vw;
+   
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+#head{
+    margin-top: 50px;
+    color:white;
+}
+
+.card h-100{
+    border-radius: 0%;
+    border: 1px solid rgb(222, 207, 207);
+    height: 200px;
+}
+
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 5px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  #last{
+  
+    width: inherit;
+  }
+
+  input[type=text] {
+    width: 200px;
+    padding: 5px 10px;
+    margin: 8px 5px;
+    box-sizing: border-box;
+  }
+  
+  #m{
+    width: 407px;
+  }
+
+.card-body:hover{
+    background-color: aquamarine;
+}
+.div1{
+    margin-top: 18px;
+    position: static;
+    width: 100vw;
+    height: 600px;
+    
+}
+.card-img-overlay{
+    margin-top:450px;
+    color: aliceblue;
+}
+.img29{
+    width:inherit;
+    height: inherit;
+    
+}
+
+#flex1{
+    display: flex;
+    justify-content: center;
+   margin-top: 15px;
+    width:inherit;
+}
